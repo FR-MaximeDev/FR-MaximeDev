@@ -1,5 +1,6 @@
 <h1 align="center">Salut 👋, Je suis Maxime<br> Je suis passionnée par le développement & La gestion de serveur </h1>
 <h3 align="center"># 💫 A propos de moi:</h3>
+
 - 🔭 Je travaille actuellement sur [HYDRA SHIELD](https://hydra-shield.fr)
 
 - 🌱 J'apprends en ce moment Le language **JAVA**
