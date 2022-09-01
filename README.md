@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h1 align="center">Salut 👋, Je suis Maxime</h1>
+<h3 align="center">Je suis passionnée par le développement & La gestion de serveur</h3>
+# 💫 A propos de moi:
 🔭 Je travaille actuellement sur HYDRA SHIELD<br><br>👯 mais également sur AXOMUNITY<br><br>🌱 J'apprends en ce moment Le language JAVA<br><br>💬 Si vous voulez que je vous aide pour votre projet vous pouvez me contacter<br><br>📫 Vous pouvez me contacter Dès que j'aurais récupéré mon nom de domaine
 
 
