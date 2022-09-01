@@ -9,9 +9,9 @@
 
 - 🔭 Je travaille actuellement sur [HYDRA SHIELD](https://hydra-shield.fr)
 
-- 🌱 J'apprends en ce moment Le language **JAVA**
-
 - 👯 mais également sur [AXOMUNITY](https:///axomunity.fr)
+
+- 🌱 J'apprends en ce moment Le language **JAVA**
 
 - 📫 Vous pouvez me contacter **Dès que j'aurais récupéré mon nom de domaine**
 
