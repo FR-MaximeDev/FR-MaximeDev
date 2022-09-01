@@ -1,6 +1,14 @@
 <h1 align="center">Salut 👋, Je suis Maxime<br> Je suis passionnée par le développement & La gestion de serveur </h1>
 <h3 align="center"># 💫 A propos de moi:</h3>
-🔭 Je travaille actuellement sur HYDRA SHIELD<br><br>👯 mais également sur AXOMUNITY<br><br>🌱 J'apprends en ce moment Le language JAVA<br><br>💬 Si vous voulez que je vous aide pour votre projet vous pouvez me contacter<br><br>📫 Vous pouvez me contacter Dès que j'aurais récupéré mon nom de domaine
+- 🔭 Je travaille actuellement sur [HYDRA SHIELD](https://hydra-shield.fr)
+
+- 🌱 J'apprends en ce moment Le language **JAVA**
+
+- 👯 mais également sur [AXOMUNITY](https:///axomunity.fr)
+
+- 💬 Si vous voulez que je vous aide pour votre projet **vous pouvez me contacter**
+
+- 📫 Vous pouvez me contacter **Dès que j'aurais récupéré mon nom de domaine**
 
 
 ## 🌐 Socials:
