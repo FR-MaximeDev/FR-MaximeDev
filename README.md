@@ -3,9 +3,9 @@
 
 - 🔭 Je travaille actuellement sur [HYDRA SHIELD](https://hydra-shield.fr)
 
-- 🌱 J'apprends en ce moment Le language **JAVA**
-
 - 👯 mais également sur [AXOMUNITY](https:///axomunity.fr)
+
+- 🌱 J'apprends en ce moment Le language **JAVA**
 
 - 💬 Si vous voulez que je vous aide pour votre projet **vous pouvez me contacter**
 
