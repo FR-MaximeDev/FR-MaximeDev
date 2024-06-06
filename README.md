@@ -1,23 +1,55 @@
-<h1 align="center">Salut 👋, Je suis Maxime<br> Je suis passionnée par le développement & La gestion de serveur </h1>
-<h3 align="center"># 💫 A propos de moi:</h3>
+# Maxime Lescure
 
-- 🌱 J'apprends en ce moment Le language **JAVA**
+## À propos de moi
 
-- 💬 Si vous voulez que je vous aide pour votre projet **vous pouvez me contacter**
+Je suis un jeune de 17 ans passionné par la technologie et l'informatique. Après avoir commencé un Bac Pro MELEC, j'ai décidé de créer mon entreprise, Hydra-Shield. Mon objectif est de continuer à apprendre et à me développer professionnellement tout en contribuant à l'innovation et à la croissance de l'industrie technologique. Hydra-Shield est une entreprise de cybersécurité visant à protéger les sites web contre les attaques DDoS, injection SQL, XSS et plus généralement tout type d'attaques. Hydra-Shield possède également un CDN pour accélérer la latence des sites internet. En 2024, Hydra-Shield s'est associé à l'équipe de @rw-hosting et compte aujourd'hui 3 associés.
 
-- 📫 Vous pouvez me contacter **Dès que j'aurais récupéré mon nom de domaine**
+### Compétences
+- Langages de programmation : Golang, PHP, Java, Python
+- Outils et technologies : Docker, Kubernetes, Git, Linux
+- Bases de données : MySQL, Redis, MongoDB
+
+# Expériences Professionnelles
+
+## Chief Technology Officer
+**Hydra-Shield · Indépendant**  
+*sept. 2022 - aujourd’hui · 1 an 10 mois*  
+*Val d'oight · Hybride*  
+- Création d'un système de mitigation anti DDoS L7 principalement en GoLang.
+- Gestion d'équipe.
+- Relation client.
+
+**Compétences :** Golang, Communication, et 3 compétences de plus  
+**Hydra-Shield :** Protection Anti DDoS pour site web & Application  
+
+## Technicien informatique
+**Netymi SARL · Freelance**  
+*déc. 2022 - déc. 2023 · 1 an 1 mois*  
+*France · À distance*
+
+## Co-président
+**ILURYA COMMUNITY · Indépendant**  
+*déc. 2021 - juin 2022 · 7 mois*  
+*À distance*
+
+## Stagiaire
+**DC2SCALE · Stage**  
+*janv. 2022 - févr. 2022 · 2 mois*  
+*Vélizy-Villacoublay, Île-de-France, France · Sur site*
+
+## Stagiaire
+**Ordi Secours · Stage**  
+*mars 2021 - mars 2021 · 1 mois*  
+*Châtillon, Auvergne-Rhône-Alpes, France · Sur site*  
+- Stage d'observation.
+- Réparation de matériel informatique.
+- Désassemblage de matériel informatique pour recyclage.
 
 
-## 🌐 Mes réseaux:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maxime_lescure) <p align="left"> <a href="https://twitter.com/fr_kiraz" target="blank"><img src="https://img.shields.io/twitter/follow/fr_kiraz?logo=twitter&style=for-the-badge" alt="fr_kiraz" /></a> </p>
+## Contact
 
-# 💻 J'utilise ces outils:
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+- [LinkedIn](https://www.linkedin.com/in/maxime-lescure/)
+- [X (anciennement Twitter)](https://x.com/FR_MaximeDev)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KiraZ-69&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KiraZ-69&theme=ayu-mirage&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KiraZ-69&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=KiraZ-69&icon=0&color=8)](https://visitcount.itsvg.in)
+Merci de visiter ma page GitHub ! N'hésitez pas à me contacter pour toute collaboration ou opportunité professionnelle.
