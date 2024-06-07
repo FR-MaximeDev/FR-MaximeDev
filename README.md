@@ -54,4 +54,4 @@ Merci de visiter ma page GitHub ! N'hésitez pas à me contacter pour toute coll
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://cdn.discordapp.com/attachments/999775053921124529/1080449842955960360/600x200.jpg?ex=66643ed4&is=6662ed54&hm=f9319009663726f6ab01b48919eb01078f85d115864efa199d70828e23c227e1&');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/FR-MaximeDev/KiraZ-69/main/600x200.jpg');]{x0000}$}
