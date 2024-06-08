@@ -52,6 +52,3 @@ Je suis un jeune de 17 ans passionné par la technologie et l'informatique 💻.
 
 Merci de visiter ma page GitHub ! N'hésitez pas à me contacter pour toute collaboration ou opportunité professionnelle 🤗.
 
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/FR-MaximeDev/KiraZ-69/main/600x200.jpg');]{x0000}$}
