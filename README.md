@@ -13,7 +13,7 @@ Je suis un jeune de 18 ans passionné par la technologie et l'informatique 💻.
 
 ## Chief Technology Officer
 **Hydra-Shield · Indépendant**  
-sept. 2022 - aujourd’hui
+*sept. 2022 - aujourd’hui*
 *Val d'oight · Hybride*  
 - Création d'un système de mitigation anti DDoS L7 principalement en GoLang ⚙️.
 - Gestion d'équipe 👥.
