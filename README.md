@@ -13,7 +13,7 @@ Je suis un jeune de 18 ans passionné par la technologie et l'informatique 💻.
 
 ## Chief Technology Officer
 **Hydra-Shield · Indépendant**  
-*sept. 2022 - aujourd’hui · *  
+*sept. 2022 - aujourd’hui · -*  
 *Val d'oight · Hybride*  
 - Création d'un système de mitigation anti DDoS L7 principalement en GoLang ⚙️.
 - Gestion d'équipe 👥.
@@ -24,22 +24,22 @@ Je suis un jeune de 18 ans passionné par la technologie et l'informatique 💻.
 
 ## Technicien informatique
 **Netymi SARL · Freelance**  
-*déc. 2022 - déc. 2023 · *  
+*déc. 2022 - déc. 2023 · -*  
 *France · À distance* 🏡
 
 ## Co-président
 **ILURYA COMMUNITY · Indépendant**  
-*déc. 2021 - juin 2022 · *  
+*déc. 2021 - juin 2022 · -*  
 *À distance* 🌍
 
 ## Stagiaire
 **DC2SCALE · Stage**  
-*janv. 2022 - févr. 2022 · *  
+*janv. 2022 - févr. 2022 · -*  
 *Vélizy-Villacoublay, Île-de-France, France · Sur site* 🏢
 
 ## Stagiaire
 **Ordi Secours · Stage**  
-*mars 2021 - mars 2021 · *  
+*mars 2021 - mars 2021 · -*  
 *Châtillon, Auvergne-Rhône-Alpes, France · Sur site* 🛠️  
 - Stage d'observation 👀.
 - Réparation de matériel informatique 🔧.
