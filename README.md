@@ -25,7 +25,7 @@ Je suis un jeune de 18 ans passionné par la technologie et l'informatique 💻.
 - Gestion des projets ⚙️.
 - Gestion d'équipe 👥.
 
-## Chief Technology Officer
+## Founder CEO
 **Hydra-Shield**  
 *sept. 2022 - aujourd’hui · 1 an 10 mois*  
 *Val d'oight · Hybride*  
