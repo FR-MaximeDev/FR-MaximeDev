@@ -6,7 +6,7 @@ Je suis un jeune de 18 ans passionné par la technologie et l'informatique 💻.
 
 ### Projet 🚀
 
-- [NetVolo](https://netvolo.com) 🔗
+- [NetVolo](https://netvolo.fr) 🔗
 - [Hydra-Shield](https://hydra-shield.fr) 🔗
 
 ### Compétences 🛠️
