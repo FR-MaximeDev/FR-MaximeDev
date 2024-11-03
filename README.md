@@ -2,17 +2,31 @@
 
 ## À propos de moi 🌟
 
-Je suis un jeune de 18 ans passionné par la technologie et l'informatique 💻. Après avoir commencé un Bac Pro MELEC, j'ai décidé de créer mon entreprise, Hydra-Shield 🛡️. Mon objectif est de continuer à apprendre et à me développer professionnellement tout en contribuant à l'innovation et à la croissance de l'industrie technologique 🌐. Hydra-Shield est une entreprise de cybersécurité visant à protéger les sites web contre les attaques DDoS, injection SQL, XSS et plus généralement tout type d'attaques 🛡️. Hydra-Shield possède également un CDN pour accélérer la latence des sites internet ⚡. En 2024, Hydra-Shield s'est associé à l'équipe de @rw-hosting et compte aujourd'hui 3 associés 🤝.
+Je suis un jeune de 18 ans passionné par la technologie et l'informatique 💻. Après avoir commencé un Bac Pro MELEC, j'ai décidé de créer mon entreprise, Hydra-Shield 🛡️. Puis en 2024, Avec mon ami et associé, nous avons décidé le groupe Netvolo.
 
 ### Compétences 🛠️
-- Langages de programmation : Golang, PHP, Java, Python 💡
+- Langages de programmation : Golang, PHP, Java, Python, VueJS 💡
 - Outils et technologies : Docker, Kubernetes, Git, Linux 🔧
 - Bases de données : MySQL, Redis, MongoDB 🗄️
 
 # Expériences Professionnelles 💼
 
+## Directeur général
+**Netvolo Provence**  
+*sept. 2024 - aujourd’hui*  
+*Avignon · Hybride*  
+- Développement Backend ⚙️.
+- Relation client 🤝.
+
+## Directeur général
+**Netvolo Holding Groupe SAS**  
+*sept. 2024 - aujourd’hui*  
+*Avignon · Hybride*  
+- Gestion des projets ⚙️.
+- Gestion d'équipe 👥.
+
 ## Chief Technology Officer
-**Hydra-Shield · Indépendant**  
+**Hydra-Shield**  
 *sept. 2022 - aujourd’hui · 1 an 10 mois*  
 *Val d'oight · Hybride*  
 - Création d'un système de mitigation anti DDoS L7 principalement en GoLang ⚙️.
