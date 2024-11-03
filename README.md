@@ -4,6 +4,11 @@
 
 Je suis un jeune de 18 ans passionné par la technologie et l'informatique 💻. Après avoir commencé un Bac Pro MELEC, j'ai décidé de créer mon entreprise, Hydra-Shield 🛡️. Puis en 2024, Avec mon ami et associé, nous avons décidé le groupe Netvolo.
 
+### Projet 🚀
+
+- [NetVolo](https://netvolo.com) 🔗
+- [Hydra-Shield](https://hydra-shield.fr) 🔗
+
 ### Compétences 🛠️
 - Langages de programmation : Golang, PHP, Java, Python, VueJS 💡
 - Outils et technologies : Docker, Kubernetes, Git, Linux 🔧
