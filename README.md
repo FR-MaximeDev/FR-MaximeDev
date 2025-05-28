@@ -10,8 +10,8 @@ Je suis un jeune de 18 ans passionné par la technologie et l'informatique 💻.
 - [Hydra-Shield](https://hydra-shield.fr) 🔗
 
 ### Compétences 🛠️
-- Langages de programmation : Golang, PHP, Java, Python, VueJS 💡
-- Outils et technologies : Docker, Kubernetes, Git, Linux 🔧
+- Langages de programmation : Golang, JavaScript, PHP, Java, Python, VueJS, React (NextJS) 💡
+- Outils et technologies : Docker, Kubernetes, Git, Linux, XDP, Active Directory 🔧
 - Bases de données : MySQL, Redis, MongoDB 🗄️
 
 # Expériences Professionnelles 💼
@@ -32,7 +32,7 @@ Je suis un jeune de 18 ans passionné par la technologie et l'informatique 💻.
 
 ## Founder CEO
 **Hydra-Shield**  
-*sept. 2022 - aujourd’hui · 1 an 10 mois*  
+*sept. 2022 - aujourd’hui*  
 *Val d'oight · Hybride*  
 - Création d'un système de mitigation anti DDoS L7 principalement en GoLang ⚙️.
 - Gestion d'équipe 👥.
