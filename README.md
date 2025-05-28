@@ -11,7 +11,7 @@ Je suis un jeune de 18 ans passionné par la technologie et l'informatique 💻.
 
 ### Compétences 🛠️
 - Langages de programmation : Golang, JavaScript, PHP, Java, Python, VueJS, React (NextJS) 💡
-- Outils et technologies : Docker, Kubernetes, Git, Linux, XDP, Active Directory 🔧
+- Outils et technologies : Docker, Kubernetes, Git, Linux, XDP, Active Directory, Kafka, GraphQL 🔧
 - Bases de données : MySQL, Redis, MongoDB 🗄️
 
 # Expériences Professionnelles 💼
