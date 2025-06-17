@@ -2,7 +2,7 @@
 
 ## À propos de moi 🌟
 
-Je suis un jeune de 18 ans passionné par la technologie et l'informatique 💻. Après avoir commencé un Bac Pro MELEC, j'ai décidé de créer mon entreprise, Hydra-Shield 🛡️. Puis en 2024, Avec mon ami et associé, nous avons décidé le groupe Netvolo.
+Je suis un jeune de 19 ans passionné par la technologie et l'informatique 💻. Après avoir commencé un Bac Pro MELEC, j'ai décidé de créer mon entreprise, Hydra-Shield 🛡️. Puis en 2024, Avec mon ami et associé, nous avons décidé le groupe Netvolo.
 
 ### Projet 🚀
 
